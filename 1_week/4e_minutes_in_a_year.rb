@@ -1,0 +1,1 @@
+puts "There are #{365 * 24 * 60} minutes in a year."
